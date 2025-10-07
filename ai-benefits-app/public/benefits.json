@@ -1,0 +1,86 @@
+[
+  {
+    "id": "D001",
+    "category": "Dental",
+    "title": "Annual Dental Check-up & Cleaning",
+    "coverage": "Up to ₹3,000 per year for routine check-ups and two cleanings.",
+    "description": "Ensure your oral health is in top shape with our comprehensive annual check-up, including scaling and polishing."
+  },
+  {
+    "id": "D002",
+    "category": "Dental",
+    "title": "Root Canal Treatment",
+    "coverage": "Covers 50% of the cost for a single root canal procedure.",
+    "description": "Coverage for endodontic therapy to treat infected tooth pulp and save your natural tooth."
+  },
+  {
+    "id": "D003",
+    "category": "Dental",
+    "title": "Tooth Extraction",
+    "coverage": "Up to ₹1,500 for simple and surgical tooth extractions.",
+    "description": "Includes coverage for the removal of decayed or problematic teeth as advised by a dental surgeon."
+  },
+  {
+    "id": "V001",
+    "category": "Vision",
+    "title": "Annual Eye Examination",
+    "coverage": "One free comprehensive eye exam per year with our network optometrists.",
+    "description": "Includes vision tests, prescription updates, and screening for common eye diseases."
+  },
+  {
+    "id": "V002",
+    "category": "Vision",
+    "title": "Prescription Eyeglasses",
+    "coverage": "Up to ₹5,000 allowance for frames and lenses every two years.",
+    "description": "Choose from a wide range of frames and get prescription lenses to correct your vision."
+  },
+  {
+    "id": "V003",
+    "category": "Vision",
+    "title": "Contact Lens Coverage",
+    "coverage": "An annual allowance of ₹4,000 for prescription contact lenses.",
+    "description": "Includes coverage for various types of contact lenses, including daily, weekly, and monthly disposables."
+  },
+  {
+    "id": "M001",
+    "category": "Mental Health",
+    "title": "Therapy & Counseling Sessions",
+    "coverage": "Covers up to 12 sessions with a licensed therapist or counselor per year.",
+    "description": "Access confidential support for stress, anxiety, depression, and other mental health concerns."
+  },
+  {
+    "id": "M002",
+    "category": "Mental Health",
+    "title": "Psychiatric Consultation",
+    "coverage": "Covers 80% of the cost for consultations with a psychiatrist.",
+    "description": "Includes initial diagnosis, treatment planning, and medication management for mental health conditions."
+  },
+  {
+    "id": "M003",
+    "category": "Mental Health",
+    "title": "Mindfulness & Meditation Apps",
+    "coverage": "Free premium subscription to leading wellness apps like Headspace or Calm.",
+    "description": "Access guided meditations, sleep stories, and stress-reduction exercises to support your mental well-being."
+  },
+  {
+    "id": "O001",
+    "category": "OPD",
+    "title": "General Physician Consultation",
+    "coverage": "Unlimited online and in-clinic consultations with general physicians in our network.",
+    "description": "Get medical advice, diagnosis, and prescriptions for common illnesses like fever, cold, and infections."
+  },
+  {
+    "id": "O002",
+    "category": "OPD",
+    "title": "Specialist Consultation",
+    "coverage": "Up to 5 consultations per year with specialists like dermatologists or orthopedics.",
+    "description": "Seek expert medical advice for specialized health issues without needing a referral."
+  },
+  {
+    "id": "O003",
+    "category": "OPD",
+    "title": "Pharmacy & Lab Tests",
+    "coverage": "Flat 20% discount on prescribed medicines and diagnostic lab tests at partner pharmacies.",
+    "description": "Save on your out-of-pocket expenses for medications and required medical tests."
+  }
+]
